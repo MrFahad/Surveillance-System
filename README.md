@@ -1,4 +1,4 @@
-![](https://ars.els-cdn.com/content/image/1-s2.0-S2213138822006531-gr4.jpg)
+![](https://github.com/MrFahad/Surveillance-System/blob/main/logo.png)
 
 Recognize and manipulate faces from Python or from the command line with
 the world's simplest face recognition library.
