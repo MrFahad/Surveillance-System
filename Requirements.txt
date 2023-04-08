@@ -1,0 +1,37 @@
+# Environment for running the Surveillance System code:
+
+# 1 - Install Anaconda: Download it from here: https://www.anaconda.com/products/distribution 
+
+# 2 - Create Virtual environment
+
+# Once, you have installed anaconda.
+
+#click on start menu, write anaconda prompt, then right-click on and open it as administrator.
+
+	# .. check conda version: conda -V
+	# .. check conda is up to date: conda update conda
+
+# Copy the folder of script: D:\Face Recognition System  ( this is my script path you can add yours)
+
+# In anaconda prompt: go to the folder path and create virtual environment inside that folder.
+
+	# .. check python version: python --version	# I am using 3.9.13
+	# .. conda create --name abc python=3.9 
+
+# 3 - Intsall dependencies
+
+conda install -c conda-forge pony
+pip install pyqt5
+pip install opencv-python
+conda install -c conda-forge imutils
+pip install cmake
+pip install dlib
+conda install scikit-image
+pip install face_recognition
+pip install xlsxwriter
+conda install scikit-learn
+pip install astor
+
+
+
+That's it.
