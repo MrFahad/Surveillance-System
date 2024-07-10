@@ -1,7 +1,7 @@
 ![](https://github.com/MrFahad/Surveillance-System/blob/main/logo.png)
 
-### [Real-time surveillance system based on facial recognition using YOLOv5](https://tinyurl.com/2nedc9v2/)
-### [Investigating the efficiency of deep learning based security system in a real-time environment using YOLOv5](https://tinyurl.com/3ke6jbrm)
+### 1 - [Real-time surveillance system based on facial recognition using YOLOv5](https://tinyurl.com/2nedc9v2/)
+### 2 - [Investigating the efficiency of deep learning based security system in a real-time environment using YOLOv5](https://tinyurl.com/3ke6jbrm)
 
 
 Recognize and manipulate faces from Python or from the command line with
