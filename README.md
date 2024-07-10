@@ -386,3 +386,34 @@ If you run into problems, please read the [Common Errors](https://github.com/age
 * Thanks to [Cookiecutter](https://github.com/audreyr/cookiecutter) and the
   [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) project template
   for making Python project packaging way more tolerable.
+
+
+### Citation
+If you find our work interesting, please cite below:
+
+```
+@INPROCEEDINGS{9526254,
+  author={Majeed, Fahad and Khan, Farrukh Zeeshan and Iqbal, Muhammad Javed and Nazir, Maria},
+  booktitle={2021 Mohammad Ali Jinnah University International Conference on Computing (MAJICC)}, 
+  title={Real-Time Surveillance System based on Facial Recognition using YOLOv5}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Deep learning;Face recognition;Surveillance;Computer architecture;Streaming media;Real-time systems;Feeds;Face recognition;deep learning;occlusion effects},
+  doi={10.1109/MAJICC53071.2021.9526254}}
+
+@article{MAJEED2022102603,
+title = {Investigating the efficiency of deep learning based security system in a real-time environment using YOLOv5},
+journal = {Sustainable Energy Technologies and Assessments},
+volume = {53},
+pages = {102603},
+year = {2022},
+issn = {2213-1388},
+doi = {https://doi.org/10.1016/j.seta.2022.102603},
+url = {https://www.sciencedirect.com/science/article/pii/S2213138822006531},
+author = {Fahad Majeed and Farrukh Zeeshan Khan and Maria Nazir and Zeshan Iqbal and Majed Alhaisoni and Usman Tariq and Muhammad Attique Khan and Seifedine Kadry},
+keywords = {Security, Facial recognition, Deep Neural Networks, Surveillance Systems},
+abstract = {Surveillance Systems Application based on deep learning algorithms is speedily growing in a broad range of fields such as Facial Recognition, Real Time Attendance Systems etc. Identifying several appearances in a real time environment is very crucial due to its difficult and heterogenous environmental conditions and blocking effects. We used state-of-the-art YOLOv5 model for investigating the efficiency of surveillance system with very limited experimental analysis. We used Face Detection Dataset & Benchmark (FDDB) and Celebrity Face Recognition (CFR) Dataset for training from scratch and for testing over YOLOv5 and private dataset taken from run-time video stream. Experimentations showing that we got 93% accuracy on FDDB on the other hand 99% accuracy on the tailored dataset. Comparison has been made for the analysis showing that our algorithm has produced better outcomes with the predecessor editions of YOLOv5 like YOLOv4 and YOLOv3 respectively. The aforementioned models are also validated over the run-time streaming, and it has the ability to recognize many faces with maximal precision.}
+}
+```
