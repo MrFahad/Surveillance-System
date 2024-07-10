@@ -3,19 +3,16 @@
 ### 1 - [Real-time surveillance system based on facial recognition using YOLOv5](https://tinyurl.com/2nedc9v2/)
 ### 2 - [Investigating the efficiency of deep learning based security system in a real-time environment using YOLOv5](https://tinyurl.com/3ke6jbrm)
 
+### Abstract: 
+Facial recognition using deep learning techniques is now a rapidly growing and widely applied aspect of real-time
+surveillance systems with broad range of applications in every field. Recognizing multiple faces in real-time is very challenging
+due to adverse environmental conditions and occlusion effects. YOLOv5 is the current state-of-the-art algorithm for real-time
+facial recognition with very limited experimental analysis. In this paper YOLOv5 has been trained from scratch and tested on FDDB
+and customized dataset from real-time video feed. Experiments show 87% accuracy on FDDB while 94% accuracy on the customized dataset. 
+The paper also presents comparative analysis of the results with the previous versions of YOLOv5 (YOLOv3 and YOLOv4). 
+The algorithm is also tested on real-time environment and has the capability to detect multiple faces with maximum accuracy. 
 
-Recognize and manipulate faces from Python or from the command line with
-the world's simplest face recognition library.
-
-Built using [dlib](http://dlib.net/)'s state-of-the-art face recognition
-built with deep learning. The model has an accuracy of 99.38% on the
-[Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) benchmark.
-
-This also provides a simple `face_recognition` command line tool that lets
-you do face recognition on a folder of images from the command line!
-
-
-## Features
+### Features
 
 #### Find faces in pictures
 
