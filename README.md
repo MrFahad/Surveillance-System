@@ -390,7 +390,7 @@ If you run into problems, please read the [Common Errors](https://github.com/age
 
 
 ### Citation
-If you find our work interesting, please cite below:
+If you find our work interesting, please cite below and don't forget to give us a ⭐️:
 
 ```
 @INPROCEEDINGS{9526254,
